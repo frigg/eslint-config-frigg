@@ -15,6 +15,11 @@ module.exports = {
     'no-param-reassign': 0,
     'no-undef': 1,
     'no-unused-vars': 2,
-    'no-console': 2
+    'no-console': 2,
+    'id-length': [2, {
+      'min': 3,
+      'properties': 'always',
+      'exceptions': ['i', '_']
+    }]
   }
 };
