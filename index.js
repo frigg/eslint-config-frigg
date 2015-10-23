@@ -19,7 +19,7 @@ module.exports = {
     'id-length': [2, {
       'min': 3,
       'properties': 'always',
-      'exceptions': ['i', '_']
+      'exceptions': ['i', '_', 'fs']
     }]
   }
 };
