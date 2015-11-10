@@ -16,10 +16,10 @@
   "author": "frigg.io",
   "license": "MIT",
   "peerDependencies": {
-    "babel-eslint": "^4.1.2",
-    "eslint": "^1.4.3",
-    "eslint-plugin-react": "^3.4.0",
-    "eslint-config-airbnb": "^0.1.0"
+    "babel-eslint": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*",
+    "eslint-config-airbnb": "*"
   },
   "dependencies": {
     "lodash": "^3.10.1"
